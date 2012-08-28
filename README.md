@@ -1,2 +1,3 @@
 # Hipster Bootstrap
-## Why twitter bootstrap is too mainstream
+
+**under construction** because *beta* is too mainstream
